@@ -107,3 +107,8 @@ body{
     display: none;
 }
 
+.feelTemp { 
+    margin-top: 10px;
+    font-style: italic; 
+}
+
